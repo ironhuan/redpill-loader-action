@@ -3,6 +3,7 @@
     "vid": "0xabcd",
     "pid": "0x1234",
     "sn": "17A0PDN123456",
+    "netif_num":"4",
     "mac1": "001132A1E8D9",
     "mac1": "001132A1E8DA",
     "mac1": "001132A1E8DB",
@@ -13,4 +14,5 @@
     "supportsystempwarning": "no"
   },
   "ramdisk_copy": {}
+  "extensions": []
 }
